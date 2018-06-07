@@ -333,7 +333,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.med.wc2018.SettingsFragment", "fragment"
+          "com.knoozapps.myapp.kas3alam.SettingsFragment", "fragment"
         ]
       }
     ]
