@@ -262,21 +262,12 @@
     ]
   },
 	 {
-    "title":"Install Mx Player Before",
-    "drawable":"",
-    "submenu":"Install Mx Player Before",
-    "iap":false,
-    "tabs":[
-     
-    ]
-  },
-  {
     "title":"Live Match",
     "drawable":"",
     "submenu":"Install Mx Player Before",
     "iap":false,
     "tabs":[
-      {
+        {
         "title":"Live",
         "provider":"stream",
         "arguments":[
@@ -285,6 +276,7 @@
       }
     ]
   },
+  
   {
     "title":"Match Results",
     "drawable":"",
