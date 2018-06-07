@@ -1,33 +1,31 @@
 [
   {
-    "title":"Infos",
+    "title":"أخبار",
     "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
-
-
+	      {
+        "title":"كأس العالم",
+        "provider":"wordpress",
+        "arguments":[
+         "http://shevahd.fr/wp-json/wp/v2/",
+          "18"
+        ]
+      }
+	  ,
       {
-        "title":"WC 2018_EN",
+        "title":"اخر الاخبار",
         "provider":"wordpress",
         "arguments":[
-         "http://shevahd.fr/wp-json/wp/v2/",
-          "79"
+          "http://shevahd.fr/wp-json/wp/v2/"
         ]
       }
-,
-	       {
-        "title":"WC 2018_FR",
-        "provider":"wordpress",
-        "arguments":[
-         "http://shevahd.fr/wp-json/wp/v2/",
-          "88"
-        ]
-      }
+
     ]
   },
 	  {
-    "title":"Le Sport avec CANAL",
+    "title":"برامج",
     "drawable":"",
     "submenu":"",
     "iap":false,
@@ -101,14 +99,14 @@
 
   },
  {
-    "title":"Highlights & Goals",
+    "title":"ملخصات و أهداف",
     "drawable":"",
     "submenu":"Social Media",
     "iap":false,
     "tabs":[
 
       {
-	              "title":"Highlights",
+	"title":"Highlights",
         "provider":"youtube",
         "arguments":[
           "UCShPR_51eeEfreqNnRBLJ2Q",
@@ -271,7 +269,7 @@
         "title":"Live",
         "provider":"stream",
         "arguments":[
-          "http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/538.ts"
+          "http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/1.ts"
         ]
       }
     ]
@@ -286,7 +284,7 @@
         "title":"Live",
         "provider":"stream",
         "arguments":[
-          "http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/539.ts"
+          "http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/2.ts"
         ]
       }
     ]
