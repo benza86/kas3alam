@@ -174,8 +174,17 @@
       }
     ]
   },
+		  {
+    "title":"LIVE MATCH",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+    
+    ]
+  },
 	  {
-    "title":"Live Match",
+    "title":"Install Mx Player Before",
     "drawable":"",
     "submenu":"",
     "iap":false,
