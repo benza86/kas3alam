@@ -276,7 +276,21 @@
       }
     ]
   },
-  
+  	 {
+    "title":"BEIN2",
+    "drawable":"",
+    "submenu":"Install Mx Player Before",
+    "iap":false,
+    "tabs":[
+        {
+        "title":"Live",
+        "provider":"stream",
+        "arguments":[
+          "http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/539.ts"
+        ]
+      }
+    ]
+  },
   {
     "title":"Match Results",
     "drawable":"",
