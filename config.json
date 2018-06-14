@@ -101,7 +101,7 @@
  {
     "title":"ملخصات و أهداف",
     "drawable":"",
-    "submenu":"Social Media",
+    "submenu":"فيديوهات",
     "iap":false,
     "tabs":[
 
@@ -207,9 +207,9 @@
 
   
  {
-    "title":"Other Highlights",
+    "title":"اخري",
     "drawable":"",
-    "submenu":"Social Media",
+    "submenu":"ملخصات",
     "iap":false,
     "tabs":[
 
@@ -260,31 +260,31 @@
     ]
   },
 	 {
-    "title":"Live Match",
+    "title":"BEIN MAX 1",
     "drawable":"",
-    "submenu":"Install Mx Player Before",
+    "submenu":"حمل Mx Player قبل التشغيل",
     "iap":false,
     "tabs":[
         {
         "title":"Live",
         "provider":"stream",
         "arguments":[
-          "http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/1.ts"
+          "http://www.zeebra.tv:8000/live/Next88/Next88/5136.ts"
         ]
       }
     ]
   },
   	 {
-    "title":"BEIN2",
+    "title":"BEIN MAX 2",
     "drawable":"",
-    "submenu":"Install Mx Player Before",
+    "submenu":"حمل Mx Player قبل التشغيل",
     "iap":false,
     "tabs":[
         {
         "title":"Live",
         "provider":"stream",
         "arguments":[
-          "http://echip.webhop.biz:8000/live/nadytek/EVONYkX0lt/2.ts"
+          "http://www.zeebra.tv:8000/live/Next88/Next88/5137.ts"
         ]
       }
     ]
