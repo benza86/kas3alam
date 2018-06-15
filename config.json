@@ -343,6 +343,15 @@
 	 {
     "title":"BEIN MAX 1",
     "drawable":"",
+    "submenu":"لتفادي الخروج اختر Menu>Lecture>Répéter",
+    "iap":false,
+    "tabs":[
+      
+    ]
+  },
+	 {
+    "title":"BEIN MAX 1",
+    "drawable":"",
     "submenu":"حمل Mx Player قبل التشغيل",
     "iap":false,
     "tabs":[
