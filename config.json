@@ -104,7 +104,15 @@
     "submenu":"فيديوهات",
     "iap":false,
     "tabs":[
-
+     {
+	"title":"الاستوديو التحليلي",
+        "provider":"youtube",
+        "arguments":[
+          "UCqXVEbCxzMh-Xljo7ApVgTQ",
+          "channel"
+        ]
+ 
+      },
       {
 	"title":"Highlights",
         "provider":"youtube",
