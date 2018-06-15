@@ -341,12 +341,18 @@
 
   },
 	 {
-    "title":"BEIN MAX 1",
+    "title":"Menu>Lecture>Répéter",
     "drawable":"",
-    "submenu":"لتفادي الخروج اختر Menu>Lecture>Répéter",
+    "submenu":"لتفادي الخروج من MXPlayer اختر ",
     "iap":false,
     "tabs":[
-      
+       {
+        "title":"Live",
+        "provider":"stream",
+        "arguments":[
+          "http://www.zeebra.tv:8000/live/Next88/Next88/5136.ts"
+        ]
+      }
     ]
   },
 	 {
