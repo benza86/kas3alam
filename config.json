@@ -113,6 +113,79 @@
         ]
  
       },
+	     
+      {
+        "title":"ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCfWnNRm78OM4fmgrkI--RvA",
+          "channel"
+        ]
+      }
+	        	  {
+        "title": " English Highlights",
+        "provider":"youtube",
+        "arguments":[
+          "UCnfTxMObW3nm-9faQzRGIig",
+          "channel"
+
+        ]
+      },
+	       {
+        "title":"كواليس المونديال",
+        "provider":"youtube",
+        "arguments":[
+          "UCe9Wb6D8SQR0gyNfgNLZaiw",
+          "channel"
+        ]
+      },
+	        {
+        "title":"كواليس المغرب",
+        "provider":"youtube",
+        "arguments":[
+          "UC3_N5eFRpGNhW9VnwQlvQWg",
+          "channel"
+        ]
+      },
+	 {
+        "title":"كواليس تونس",
+        "provider":"youtube",
+        "arguments":[
+          "PLmQHtil5-0QVP7WrmcVfrTYycQ8IxM9z5",
+          "playlist"
+
+        ]
+      },
+	          {
+        "title":"كواليس مصر",
+        "provider":"youtube",
+        "arguments":[
+          "UCWLo4r-9_x4GCJCFShNFq0A",
+          "playlist"
+
+        ]
+      },
+	    
+ {
+        "title":"مقتطفات",
+        "provider":"youtube",
+        "arguments":[
+          "UCfWnNRm78OM4fmgrkI--RvA",
+          "channel"
+        ]
+      },
+   {
+        "title":" ملخصات انجليزي",
+        "provider":"youtube",
+        "arguments":[
+          "UCnfTxMObW3nm-9faQzRGIig",
+          "channel"
+
+        ]
+      },
+	  
+	     
+	     
       {
 	"title":"Highlights",
         "provider":"youtube",
@@ -131,15 +204,7 @@
 
         ]
       },
-	   {
-        "title": " EPL",
-        "provider":"youtube",
-        "arguments":[
-          "UCnfTxMObW3nm-9faQzRGIig",
-          "channel"
-
-        ]
-      },
+	 
 	  
 	  	  	   {
         "title":"LIGA",
@@ -169,15 +234,7 @@
 
         ]
       }
-	    ,
-      {
-        "title":"Other",
-        "provider":"youtube",
-        "arguments":[
-          "UCfWnNRm78OM4fmgrkI--RvA",
-          "channel"
-        ]
-      }
+	   
     ]
   },
 	
