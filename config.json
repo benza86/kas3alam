@@ -325,9 +325,9 @@
     ]
   },
 	{
-    "title":"بث مباشر",
+    "title":"اضغط هنا : بث مباشر",
     "drawable":"",
-    "submenu":"شاهد المباريات مباشرة",
+    "submenu":"شاهد المباريات مباشرة جودة متوسطة",
     "iap":false,
     "tabs":[
       {
@@ -356,7 +356,7 @@
     ]
   },
 	 {
-    "title":"BEIN MAX 1",
+    "title":"BEIN MAX 1 جودة عالية",
     "drawable":"",
     "submenu":"حمل Mx Player قبل التشغيل",
     "iap":false,
@@ -371,7 +371,7 @@
     ]
   },
   	 {
-    "title":"BEIN MAX 2",
+    "title":"BEIN MAX 2 جودة عالية",
     "drawable":"",
     "submenu":"حمل Mx Player قبل التشغيل",
     "iap":false,
