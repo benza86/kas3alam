@@ -357,22 +357,7 @@
 
   },
 	 
-	 {
-    "title":"بث مباشر 2",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://player.twitch.tv/?channel=emod0u2u014"
-        ]
-      }
-    ]
 
-  },
 	
 	 {
     "title":"Menu>Lecture>Répéter",
