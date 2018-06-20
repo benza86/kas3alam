@@ -384,7 +384,7 @@
         "title":"Live",
         "provider":"stream",
         "arguments":[
-          "http://www.zeebra.tv:8000/live/Next88/Next88/5136.ts"
+          "http://iptv.atlasiptv.net:88/live/329388682628645/329388682628645/69.ts"
         ]
       }
     ]
@@ -399,7 +399,7 @@
         "title":"Live",
         "provider":"stream",
         "arguments":[
-          "http://www.zeebra.tv:8000/live/Next88/Next88/5137.ts"
+          "http://t.x32uws409.niacam.live:8080/live/niacam/exchange50/16202.ts"
         ]
       }
     ]
