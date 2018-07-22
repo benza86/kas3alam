@@ -6,6 +6,14 @@
     "submenu":"",
     "iap":false,
     "tabs":[
+	       {
+        "title":"Amical resumée",
+        "provider":"youtube",
+        "arguments":[
+          "UCP1cc6fUl_eVu114oZ75Qag",
+          "channel"
+        ]
+      },  
    {
         "title":"Le Sport avec CANAL",
         "provider":"youtube",
