@@ -1,5 +1,238 @@
 [
-  
+		  {
+    "title":"Ligue Clubiste TV",
+    "drawable":"",
+    "submenu":"فيديوهات",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":"Ligue Clubiste TV",
+        "provider":"youtube",
+        "arguments":[
+          "UCnVNi_NYugGLP29bB8YH_nQ",
+          "channel"
+        ]
+      },  
+	    	  {
+    "title":"Ligue Clubiste TV",
+    "drawable":"",
+    "submenu":"فيديوهات",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":"Ligue Clubiste TV",
+        "provider":"youtube",
+        "arguments":[
+          "UCR2JCBXasHJ6YQTi9ac4AWQ",
+          "channel"
+        ]
+      },  
+	       	  {
+    "title":"Club Africain Youtube",
+    "drawable":"",
+    "submenu":"فيديوهات",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":"Club Africain Youtube",
+        "provider":"youtube",
+        "arguments":[
+          "UCEDXR5aarXwt-3kdKbpmASw",
+          "channel"
+        ]
+      },  
+
+	        	  {
+    "title":"club africain fans",
+    "drawable":"",
+    "submenu":"فيديوهات",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":"club africain fans",
+        "provider":"youtube",
+        "arguments":[
+          "UCh95H9qpSvMQ00kr8JJac-A",
+          "channel"
+        ]
+      },  
+	    {
+   "title":"Ligue Clubiste",
+    "drawable":"",
+    "submenu":"أخبار النادي",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.ligueclubiste.com/sitear/"
+        ]
+      }
+    ]
+
+  },
+	  {
+   "title":"الصباح",
+    "drawable":"",
+    "submenu":"أخبار النادي",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.assabahnews.tn/tags/%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A"
+        ]
+      }
+    ]
+
+  },
+	  {
+   "title":"Kapitalis (FR)",
+    "drawable":"",
+    "submenu":"أخبار النادي",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://kapitalis.com/tunisie/tag/club-africain/"
+        ]
+      }
+    ]
+
+  },
+	  {
+   "title":"تورس نيوز",
+    "drawable":"",
+    "submenu":"أخبار النادي",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.turess.com/search/%D8%AC%D8%AF%D9%8A%D8%AF+%D8%A7%D9%86%D8%AA%D8%AF%D8%A7%D8%A8%D8%A7%D8%AA+%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D9%8A+%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A"
+        ]
+      }
+    ]
+
+  },
+	
+	  {
+   "title":"Kora",
+    "drawable":"",
+    "submenu":"أخبار النادي",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://kora.com/ar/tunisia/club-africain/"
+        ]
+      }
+    ]
+
+  },
+	  {
+   "title":"أخبارك",
+    "drawable":"",
+    "submenu":"أخبار النادي",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.akhbarak.net/tags/1738-%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A"
+        ]
+      }
+    ]
+
+  },
+		  {
+   "title":"Mosaique FM",
+    "drawable":"",
+    "submenu":"أخبار النادي",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.mosaiquefm.net/ar/actualites/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/68"
+        ]
+      }
+    ]
+
+  },	  {
+   "title":"Attasia Sport CA",
+    "drawable":"",
+    "submenu":"أخبار النادي",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.attessia.tv/tags/%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D9%8A%20%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A"
+        ]
+      }
+    ]
+
+  },
+	  {
+   "title":"Kora",
+    "drawable":"",
+    "submenu":"أخبار النادي",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://kora.com/ar/tunisia/club-africain/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"Kora",
+    "drawable":"",
+    "submenu":"أخبار النادي",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://kora.com/ar/tunisia/club-africain/"
+        ]
+      }
+    ]
+
+  },	 
+  	  {
+   "title":"النتائج",
+    "drawable":"",
+    "submenu":"نتائج المباريات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.footmercato.net/club/c3479_club-africain/calendrier"
+        ]
+      }
+    ]
+
+  }
+	,
 	  {
     "title":"برامج",
     "drawable":"",
