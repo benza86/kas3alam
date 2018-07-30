@@ -79,7 +79,8 @@
 		]
 	       }
         ]
-      },  
+      }
+	,  
 	    {
    "title":"Ligue Clubiste",
     "drawable":"",
@@ -92,6 +93,8 @@
         "arguments":[
           "http://www.ligueclubiste.com/sitear/"
         ]
+  }
+	           ]
   },
 	    
 	  {
