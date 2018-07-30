@@ -576,22 +576,7 @@
       }
     ]
   },
-	 {
-    "title":"اذا انحظر البث قم بعمل تحديث للصفحة",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.kol7sry.news/p/yalla-shoot.html?m=0"
-        ]
-      }
-    ]
-
-  },	
+	
   {
    "title":"اضغط هنا : بث مباشر",
     "drawable":"",
@@ -610,68 +595,7 @@
   },
 	 
 
-	
-	 {
-    "title":"Menu>Lecture>Répéter",
-    "drawable":"",
-    "submenu":"لتفادي الخروج من MXPlayer اختر ",
-    "iap":false,
-    "tabs":[
-       {
-        "title":"Live",
-        "provider":"stream",
-        "arguments":[
-          "http://www.zeebra.tv:8000/live/Next88/Next88/5136.ts"
-        ]
-      }
-    ]
-  },
-	 {
-    "title":"BEIN MAX 1 جودة عالية",
-    "drawable":"",
-    "submenu":"حمل Mx Player قبل التشغيل",
-    "iap":false,
-    "tabs":[
-        {
-        "title":"Live",
-        "provider":"stream",
-        "arguments":[
-          "http://iptv.atlasiptv.net:88/live/329388682628645/329388682628645/69.ts"
-        ]
-      }
-    ]
-  },
-  	 {
-    "title":"BEIN MAX 2 جودة عالية",
-    "drawable":"",
-    "submenu":"حمل Mx Player قبل التشغيل",
-    "iap":false,
-    "tabs":[
-        {
-        "title":"Live",
-        "provider":"stream",
-        "arguments":[
-          "http://t.x32uws409.niacam.live:8080/live/niacam/exchange50/16202.ts"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Match Results",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.fifa.com/worldcup/matches/index.html"
-        ]
-      }
-    ]
 
-  },
   {
     "title":"Videos",
     "drawable":"",
