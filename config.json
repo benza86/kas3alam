@@ -14,6 +14,20 @@
         ]
       },  
 	    	  {
+    "title":"YouClubiste [chaîne officielle]",
+    "drawable":"",
+    "submenu":"فيديوهات",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":"YouClubiste [chaîne officielle]",
+        "provider":"youtube",
+        "arguments":[
+          "UCdNqLSt-7wG-tRlhf5ZVMRA",
+          "channel"
+        ]
+      },  
+	    	  {
     "title":"Ligue Clubiste TV",
     "drawable":"",
     "submenu":"فيديوهات",
