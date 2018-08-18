@@ -52,6 +52,55 @@
 	    
         ]
       },  
+	 {
+   "title":"النتائج",
+    "drawable":"",
+    "submenu":"نتائج المباريات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.footmercato.net/club/c3479_club-africain/calendrier"
+        ]
+      }
+    ]
+
+  }
+	,
+	
+  {
+   "title":" بث مباشر",
+    "drawable":"",
+    "submenu":"شاهد المباريات مباشرة جودة متوسطة",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://kora-online.tv/"
+        ]
+      }
+    ]
+
+  },
+	   {
+    "title":"بث مباشر 2",
+    "drawable":"",
+    "submenu":"شاهد المباريات مباشرة جودة متوسطة",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.as-goal.com"
+        ]
+      }
+    ]
+	    }
 	    {
    "title":"Ligue Clubiste",
     "drawable":"",
@@ -213,105 +262,9 @@
     ]
 
   },	 
-  	  {
-   "title":"النتائج",
-    "drawable":"",
-    "submenu":"نتائج المباريات",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.footmercato.net/club/c3479_club-africain/calendrier"
-        ]
-      }
-    ]
-
-  }
-	,
-	  {
-    "title":"برامج",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-	       {
-        "title":"Amical resumée",
-        "provider":"youtube",
-        "arguments":[
-          "UCP1cc6fUl_eVu114oZ75Qag",
-          "channel"
-        ]
-      },  
-   {
-        "title":"Le Sport avec CANAL",
-        "provider":"youtube",
-        "arguments":[
-          "UC8ggH3zU61XO0nMskSQwZdA",
-          "channel"
-
-        ]
-      },
-	    {
-        "title":"Foot Mercato",
-        "provider":"youtube",
-        "arguments":[
-          "UCrzDtXyuSBch2u_31JJj-Dw",
-          "channel"
-
-        ]
-      }
-	    ,
-	    {
-        "title":"AFTER FOOT",
-        "provider":"youtube",
-        "arguments":[
-          "UCUdwSuEopnWNpibR9-dgciw",
-          "channel"
-
-        ]
-      }
-    ]
-
-  },
-	 {
-    "title":"WC Program",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-   {
-        "title":"BBC Sport",
-        "provider":"youtube",
-        "arguments":[
-          "UCW6-BQWFA70Dyyc7ZpZ9Xlg",
-          "channel"
-
-        ]
-      },
-	    {
-        "title":"Tifo Football",
-        "provider":"youtube",
-        "arguments":[
-          "UCGYYNGmyhZ_kwBF_lqqXdAQ",
-          "channel"
-
-        ]
-      }
-	    ,
-	    {
-        "title":"HITC Sport",
-        "provider":"youtube",
-        "arguments":[
-          "UC3UFSVP6ormiRWUg_rmH2zA",
-          "channel"
-
-        ]
-      }
-    ]
-
-  },
+  	 
+	
+	
  {
     "title":"ملخصات و أهداف",
     "drawable":"",
@@ -548,24 +501,53 @@
     ]
   },
 	
+
+	 
   {
-   "title":"اضغط هنا : بث مباشر",
+    "title":" FR برامج",
     "drawable":"",
-    "submenu":"شاهد المباريات مباشرة جودة متوسطة",
+    "submenu":"",
     "iap":false,
     "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
+	       {
+        "title":"Amical resumée",
+        "provider":"youtube",
         "arguments":[
-          "https://www.kol7sry.news/p/yalla-shoot.html?m=0"
+          "UCP1cc6fUl_eVu114oZ75Qag",
+          "channel"
+        ]
+      },  
+   {
+        "title":"Le Sport avec CANAL",
+        "provider":"youtube",
+        "arguments":[
+          "UC8ggH3zU61XO0nMskSQwZdA",
+          "channel"
+
+        ]
+      },
+	    {
+        "title":"Foot Mercato",
+        "provider":"youtube",
+        "arguments":[
+          "UCrzDtXyuSBch2u_31JJj-Dw",
+          "channel"
+
+        ]
+      }
+	    ,
+	    {
+        "title":"AFTER FOOT",
+        "provider":"youtube",
+        "arguments":[
+          "UCUdwSuEopnWNpibR9-dgciw",
+          "channel"
+
         ]
       }
     ]
 
   },
-	 
-
 
   {
     "title":"Videos",
