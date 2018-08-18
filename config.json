@@ -13,15 +13,8 @@
           "channel"
 		]
 	       }
-        ]
-      },  
-	    	  {
-    "title":"YouClubiste [chaîne officielle]",
-    "drawable":"",
-    "submenu":"فيديوهات",
-    "iap":false,
-    "tabs":[
-	       {
+	    ,
+	     {
         "title":"YouClubiste [chaîne officielle]",
         "provider":"youtube",
         "arguments":[
@@ -29,14 +22,7 @@
           "channel"
 		]
 	       }
-        ]
-      },  
-	    	  {
-    "title":"Ligue Clubiste TV",
-    "drawable":"",
-    "submenu":"فيديوهات",
-    "iap":false,
-    "tabs":[
+	    ,
 	       {
         "title":"Ligue Clubiste TV",
         "provider":"youtube",
@@ -45,14 +31,7 @@
           "channel"
 		]
 	       }
-        ]
-      },  
-	       	  {
-    "title":"Club Africain Youtube",
-    "drawable":"",
-    "submenu":"فيديوهات",
-    "iap":false,
-    "tabs":[
+	    ,
 	       {
         "title":"Club Africain Youtube",
         "provider":"youtube",
@@ -61,16 +40,8 @@
           "channel"
 		]
 	       }
-        ]
-      },  
-
-	        	  {
-    "title":"club africain fans",
-    "drawable":"",
-    "submenu":"فيديوهات",
-    "iap":false,
-    "tabs":[
-	       {
+	    ,
+	      {
         "title":"club africain fans",
         "provider":"youtube",
         "arguments":[
@@ -78,9 +49,9 @@
           "channel"
 		]
 	       }
+	    
         ]
-      }
-	,  
+      },  
 	    {
    "title":"Ligue Clubiste",
     "drawable":"",
