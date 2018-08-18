@@ -52,6 +52,7 @@
 	    
         ]
       },  
+	
 	 {
    "title":"النتائج",
     "drawable":"",
@@ -85,7 +86,8 @@
       }
     ]
 
-  },
+  }
+	,
 	   {
     "title":"بث مباشر 2",
     "drawable":"",
@@ -101,6 +103,45 @@
       }
     ]
 	    }
+	,
+	 {
+   "title":"الوطنية 1",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+     {
+        "title":"Watania 1",
+        "provider":"youtube",
+        "arguments":[
+          "PLpuTkbiVtmpiH-0e09Q4iUHT1arHy_iOz",
+          "playlist"
+
+        ]
+     }
+	 ]
+
+  }
+	    ,
+	 {
+   "title":"الوطنية 2",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+     {
+        "title":"Watania 1",
+        "provider":"youtube",
+        "arguments":[
+          "PLpuTkbiVtmpi6k7ycw_r3wVYHooTu1MTA",
+          "playlist"
+
+        ]
+     }
+	 ]
+
+  }
+	,
 	    {
    "title":"Ligue Clubiste",
     "drawable":"",
