@@ -126,7 +126,7 @@
   {
    "title":" بث مباشر",
     "drawable":"",
-    "submenu":"شاهد المباريات مباشرة جودة متوسطة",
+    "submenu":"شاهد المباريات الأوروبية مباشرة ",
     "iap":false,
     "tabs":[
       {
@@ -143,7 +143,7 @@
 	   {
     "title":"بث مباشر 2",
     "drawable":"",
-    "submenu":"شاهد المباريات مباشرة جودة متوسطة",
+    "submenu":"شاهد المباريات الأوروبية مباشرة ",
     "iap":false,
     "tabs":[
       {
@@ -159,7 +159,7 @@
 	 {
    "title":"الوطنية 1",
     "drawable":"",
-    "submenu":"بث مباشر",
+    "submenu":"بث مباشر لمباريات النادي الافريقي",
     "iap":false,
     "tabs":[
      {
@@ -178,7 +178,7 @@
 	 {
    "title":"الوطنية 2",
     "drawable":"",
-    "submenu":"بث مباشر",
+    "submenu":"بث مباشر لمباريات النادي الافريقي",
     "iap":false,
     "tabs":[
      {
@@ -205,6 +205,21 @@
         "provider":"webview",
         "arguments":[
           "http://www.ligueclubiste.com/sitear/"
+        ]
+  }
+	           ]
+  },
+		    {
+   "title":"الموقع الرسمي",
+    "drawable":"",
+    "submenu":"أخبار النادي",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.clubafricain.net/"
         ]
   }
 	           ]
