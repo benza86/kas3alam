@@ -15,6 +15,16 @@
 	       }
 	    ,
 	     {
+        "title":"اخر الأخبار",
+        "provider":"youtube",
+        "arguments":[
+          "UCiPSs-2vxzLNaoWYPahH0Yg",
+          "channel"
+		]
+	       }
+	    ,
+	    
+	     {
         "title":"YouClubiste [chaîne officielle]",
         "provider":"youtube",
         "arguments":[
@@ -46,6 +56,15 @@
         "provider":"youtube",
         "arguments":[
           "UCh95H9qpSvMQ00kr8JJac-A",
+          "channel"
+		]
+	       }
+	        ,
+	      {
+        "title":"ملخصات بي اين",
+        "provider":"youtube",
+        "arguments":[
+          "UC3OXMztcdu-zHHiPrXxXqIw",
           "channel"
 		]
 	       }
@@ -337,8 +356,70 @@
     ]
 
   },
- 
-	
+ 	  {
+   "title":"كرة السلة",
+    "drawable":"",
+    "submenu":"الفروع الاخري",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.ligueclubiste.com/sitear/?cat=12"
+        ]
+      }
+    ]
+
+  },
+		  {
+   "title":"كرة اليد",
+    "drawable":"",
+    "submenu":"الفروع الاخري",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.ligueclubiste.com/sitear/?cat=11"
+        ]
+      }
+    ]
+
+  },
+		  {
+   "title":"كرة الطائرة",
+    "drawable":"",
+    "submenu":"الفروع الاخري",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.ligueclubiste.com/sitear/?cat=59"
+        ]
+      }
+    ]
+
+  },
+		  {
+   "title":"الشبان",
+    "drawable":"",
+    "submenu":"الفروع الاخري",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.ligueclubiste.com/sitear/?cat=10"
+        ]
+      }
+    ]
+
+  },
 	
  {
     "title":"ملخصات و أهداف",
