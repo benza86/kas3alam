@@ -70,6 +70,39 @@
 
   }
 	,
+	  {
+   "title":"الترتيب",
+    "drawable":"",
+    "submenu":"نتائج المباريات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.goal.com/fr/equipe/club-africain/classement/9s0ojv8sdlnx3g7ugpyddejlz"
+        ]
+      }
+    ]
+
+  },
+		,
+	  {
+   "title":"المنتخب",
+    "drawable":"",
+    "submenu":"نتائج المباريات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://sport.tunisienumerique.com/football/qualifications-can-cameroun-2019/calendrier-resultats/"
+        ]
+      }
+    ]
+
+  },	
 	
   {
    "title":" بث مباشر",
@@ -157,6 +190,23 @@
   }
 	           ]
   },
+	  {
+   "title":"Nessma Sport CA",
+    "drawable":"",
+    "submenu":"أخبار النادي",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.nessma.tv/fr/news_tag/club-africain/"
+        ]
+      }
+    ]
+
+  },	 
+  	
 	    
 	  {
    "title":"الصباح",
@@ -287,23 +337,7 @@
     ]
 
   },
-  {
-   "title":"Kora",
-    "drawable":"",
-    "submenu":"أخبار النادي",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://kora.com/ar/tunisia/club-africain/"
-        ]
-      }
-    ]
-
-  },	 
-  	 
+ 
 	
 	
  {
