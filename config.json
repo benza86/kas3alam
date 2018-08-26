@@ -71,6 +71,23 @@
 	    
         ]
       },  
+		  {
+    "title":"مبارة النادي الافريقي و حمام الانف",
+    "drawable":"",
+    "submenu":"مياراة كاملة",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":"CA-CSHL",
+        "provider":"youtube",
+        "arguments":[
+          "PLUruAO4-0QPwWwKD7I2XKCVPrr5doYRsA",
+          "playlist"
+		]
+	       }
+	    ]
+		  }
+	,
 	
 	 {
    "title":"النتائج",
