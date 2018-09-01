@@ -71,34 +71,16 @@
 	    
         ]
       }
-		,
-	 {
-   "title":"16H النادي الافريقي الاتحاد المنستيري ",
-    "drawable":"",
-    "submenu":"بث مباشر لمباريات النادي الافريقي",
-    "iap":false,
-    "tabs":[
-     {
-        "title":"Watania 1",
-        "provider":"youtube",
-        "arguments":[
-          "PLpuTkbiVtmpiH-0e09Q4iUHT1arHy_iOz",
-          "playlist"
-
-        ]
-     }
-	 ]
-
-  }
+	
 	    ,
 		  {
-    "title":" النادي الافريقي و حمام الانف",
+    "title":" النادي الافريقي و الاتحاد المنستيري",
     "drawable":"",
     "submenu":"مباراة كاملة",
     "iap":false,
     "tabs":[
 	       {
-        "title":"CA-CSHL",
+        "title":"CA - USM",
         "provider":"youtube",
         "arguments":[
           "PLUruAO4-0QPwWwKD7I2XKCVPrr5doYRsA",
@@ -158,24 +140,9 @@
       }
     ]
 
-  },	
-		 {
-    "title":" Youtube بث مباشر ",
-    "drawable":"",
-    "submenu":"شاهد المباريات الأوروبية مباشرة ",
-    "iap":false,
-    "tabs":[
-	       {
-        "title":"بث مباشر",
-        "provider":"youtube",
-        "arguments":[
-          "PLUruAO4-0QPyDc8ovZvb-2kKS4eUSoy6a",
-          "playlist"
-        ]
-      }
-	    ]
-	 }
-	,
+  }
+	,	
+		
   {
    "title":" بث مباشر",
     "drawable":"",
