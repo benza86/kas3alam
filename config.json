@@ -193,6 +193,22 @@
     ]
 	    }
 	,
+	   {
+    "title":"بث مباشر 3",
+    "drawable":"",
+    "submenu":"شاهد المباريات الأوروبية مباشرة ",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.kora-star.tv"
+        ]
+      }
+    ]
+	    }
+	,
 	 {
    "title":"الوطنية 1",
     "drawable":"",
