@@ -159,7 +159,23 @@
     ]
 
   },	
-	
+		 {
+    "title":" Youtube بث مباشر ",
+    "drawable":"",
+    "submenu":"شاهد المباريات الأوروبية مباشرة ",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":"بث مباشر",
+        "provider":"youtube",
+        "arguments":[
+          "PLUruAO4-0QPyDc8ovZvb-2kKS4eUSoy6a",
+          "playlist"
+        ]
+      }
+	    ]
+	 }
+	,
   {
    "title":" بث مباشر",
     "drawable":"",
