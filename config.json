@@ -71,6 +71,26 @@
 	    
         ]
       },  
+		,
+	 {
+   "title":"16H النادي الافريقي الاتحاد المنستيري ",
+    "drawable":"",
+    "submenu":"بث مباشر لمباريات النادي الافريقي",
+    "iap":false,
+    "tabs":[
+     {
+        "title":"Watania 1",
+        "provider":"youtube",
+        "arguments":[
+          "PLpuTkbiVtmpiH-0e09Q4iUHT1arHy_iOz",
+          "playlist"
+
+        ]
+     }
+	 ]
+
+  }
+	    ,
 		  {
     "title":"مبارة النادي الافريقي و حمام الانف",
     "drawable":"",
