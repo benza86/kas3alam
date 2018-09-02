@@ -60,6 +60,24 @@
 		]
 	       }
 	        ,
+	     {
+        "title":"جميع الدوريات",
+        "provider":"youtube",
+        "arguments":[
+          "UC7C-kigODYM1DhEO14yKXAA",
+          "channel"
+		]
+	       }
+	        ,
+	     {
+        "title":"ملخصات عربي",
+        "provider":"youtube",
+        "arguments":[
+          "UCfZ0cC-UlXMVWQ6rCvP3dLw",
+          "channel"
+		]
+	       }
+	        ,
 	      {
         "title":"ملخصات بي اين",
         "provider":"youtube",
