@@ -5,6 +5,33 @@
     "submenu":"فيديوهات",
     "iap":false,
     "tabs":[
+	        {
+        "title":"club africain fans",
+        "provider":"youtube",
+        "arguments":[
+          "UCh95H9qpSvMQ00kr8JJac-A",
+          "channel"
+		]
+	       }
+	        ,
+	        {
+        "title":"YouClubiste [chaîne officielle]",
+        "provider":"youtube",
+        "arguments":[
+          "UCdNqLSt-7wG-tRlhf5ZVMRA",
+          "channel"
+		]
+	       }
+	    ,
+	      {
+        "title":"Weld Lefri9i",
+        "provider":"youtube",
+        "arguments":[
+          "UCZMf6smpORfsYbbqW5V_oVQ",
+          "channel"
+		]
+	       }
+	    ,
 	       {
         "title":"Ligue Clubiste TV",
         "provider":"youtube",
@@ -24,15 +51,7 @@
 	       }
 	    ,
 	    
-	     {
-        "title":"YouClubiste [chaîne officielle]",
-        "provider":"youtube",
-        "arguments":[
-          "UCdNqLSt-7wG-tRlhf5ZVMRA",
-          "channel"
-		]
-	       }
-	    ,
+	 
 	       {
         "title":"Ligue Clubiste TV",
         "provider":"youtube",
@@ -51,15 +70,7 @@
 		]
 	       }
 	    ,
-	      {
-        "title":"club africain fans",
-        "provider":"youtube",
-        "arguments":[
-          "UCh95H9qpSvMQ00kr8JJac-A",
-          "channel"
-		]
-	       }
-	        ,
+	  
 	     {
         "title":"جميع الدوريات",
         "provider":"youtube",
