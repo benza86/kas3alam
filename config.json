@@ -67,38 +67,15 @@
           "UC3OXMztcdu-zHHiPrXxXqIw",
           "channel"
 		]
-	       }
+}
 	    
         ]
       }
-	,
-	{
-    "title":"ملخصات الدوريات ",
-    "drawable":"",
-    "submenu":"فيديوهات"
-    "iap":false,
-    "tabs":[
-	        {
-        "title":"جميع الدوريات",
-        "provider":"youtube",
-        "arguments":[
-          "UC7C-kigODYM1DhEO14yKXAA",
-          "channel"
-        ]
-      },  
-	            {
-        "title":"ملخصات عربي",
-        "provider":"youtube",
-        "arguments":[
-          "UCfZ0cC-UlXMVWQ6rCvP3dLw",
-          "channel"
-        ]
-      }
-]
-}
+	
 
 	    ,
-		  {
+		
+{
     "title":" النادي الافريقي و الاتحاد المنستيري",
     "drawable":"",
     "submenu":"مباراة كاملة",
@@ -113,7 +90,7 @@
 		]
 	       }
 	    ]
-		  }
+	}
 	,
 	
 	 {
@@ -215,7 +192,7 @@
         ]
       }
     ]
-	    }
+ }
 	,
 	 {
    "title":"الوطنية 1",
