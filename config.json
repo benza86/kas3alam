@@ -110,9 +110,25 @@
 	    ]
 	}
 	,
-	
+		 {
+   "title":"Live Score Tunisia",
+    "drawable":"",
+    "submenu":"نتائج المباريات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://t.flashscore.ca/#!/soccer/0/tunisia/ligue-professionnelle-1"
+        ]
+      }
+    ]
+
+  }
+	,
 	 {
-   "title":"النتائج",
+   "title":"CA النتائج",
     "drawable":"",
     "submenu":"نتائج المباريات",
     "iap":false,
@@ -139,6 +155,23 @@
         "provider":"webview",
         "arguments":[
           "http://t.flashscore.ca/#!/soccer/standings/190/80jS3JFF/dSXVhFRh"
+        ]
+      }
+    ]
+
+  },
+		
+	  {
+   "title":"LiveScore All ligue",
+    "drawable":"",
+    "submenu":"نتائج المباريات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://t.flashscore.ca/#!/soccer/"
         ]
       }
     ]
