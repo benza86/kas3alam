@@ -103,6 +103,24 @@
 	
 
 	    ,
+	
+		  {
+    "title":"Club Africain - Pyramids FC",
+    "drawable":"",
+    "submenu":"Live ICI",
+    "iap":false,
+    "tabs":[
+	        {
+        "title":"Pyramids TV",
+        "provider":"youtube",
+        "arguments":[
+          "PLpuTkbiVtmpi_ny8MgRoK9FTYQsuPoTMO",
+          "playlist"
+		]
+	       }
+	    ]
+		  }
+	,
 		
 {
     "title":" النادي الافريقي و الاتحاد المنستيري",
