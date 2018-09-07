@@ -138,23 +138,7 @@
 	       }
 	    ]
 	}
-	,
-		 {
-   "title":"Live Score Tunisia",
-    "drawable":"",
-    "submenu":"نتائج المباريات",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://t.flashscore.ca/#!/soccer/0/tunisia/ligue-professionnelle-1"
-        ]
-      }
-    ]
-
-  }
+	
 	,
 	 {
    "title":"CA النتائج",
