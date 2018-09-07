@@ -1,4 +1,23 @@
 [
+	 {
+    "title":"Club Africain - Pyramids FC",
+    "drawable":"",
+    "submenu":"مشاهدة المباراة",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://jascotvstreaming.com/pyramidsfc"
+        ]
+      }
+    ]
+
+  },
+	
+		
+	
 		  {
     "title":"اخر فيديوهات تحقيقات و ملخصات",
     "drawable":"",
