@@ -1,4 +1,21 @@
 [
+			  {
+    "title":"Club Africain - Pyramids FC",
+    "drawable":"",
+    "submenu":"البث Youtube خفيف",
+    "iap":false,
+    "tabs":[
+	        {
+        "title":"Pyramids TV",
+        "provider":"youtube",
+        "arguments":[
+          "PLpuTkbiVtmpi_ny8MgRoK9FTYQsuPoTMO",
+          "playlist"
+		]
+	       }
+	    ]
+		  }
+	,
 	 {
     "title":"Club Africain - Pyramids FC",
     "drawable":"",
@@ -123,23 +140,7 @@
 
 	    ,
 	
-		  {
-    "title":"Club Africain - Pyramids FC",
-    "drawable":"",
-    "submenu":"البث سينطلق قبل المبارة",
-    "iap":false,
-    "tabs":[
-	        {
-        "title":"Pyramids TV",
-        "provider":"youtube",
-        "arguments":[
-          "PLpuTkbiVtmpi_ny8MgRoK9FTYQsuPoTMO",
-          "playlist"
-		]
-	       }
-	    ]
-		  }
-	,
+
 		
 {
     "title":" النادي الافريقي و الاتحاد المنستيري",
