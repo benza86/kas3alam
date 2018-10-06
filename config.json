@@ -707,15 +707,7 @@
 
         ]
       },
-	   {
-        "title":"Premier League",
-        "provider":"youtube",
-        "arguments":[
-          "UClnK5pKFEwAHpmCpUlZZ8Sw",
-          "channel"
-
-        ]
-      },
+	
 	  	  	   {
         "title":"Liga",
         "provider":"youtube",
@@ -733,14 +725,6 @@
           "channel"
 
         ]
-      },
-      {
-        "title":"Highlights & Goals ",
-        "provider":"youtube",
-        "arguments":[
-          "UCdyKwzOdSr76_Zov2B3i8ow",
-          "channel"
-        ]
       }
     ]
   },
@@ -753,14 +737,7 @@
     "submenu":"",
     "iap":false,
     "tabs":[
-	       {
-        "title":"Amical resumée",
-        "provider":"youtube",
-        "arguments":[
-          "UCP1cc6fUl_eVu114oZ75Qag",
-          "channel"
-        ]
-      },  
+	 
    {
         "title":"Le Sport avec CANAL",
         "provider":"youtube",
