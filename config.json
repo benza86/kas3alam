@@ -109,7 +109,7 @@
 
 		
 {
-    "title":" النادي الافريقي و الاتحاد المنستيري",
+    "title":" النادي الافريقي و الملعب التونسي",
     "drawable":"",
     "submenu":"مباراة كاملة",
     "iap":false,
@@ -118,7 +118,7 @@
         "title":"CA - USM",
         "provider":"youtube",
         "arguments":[
-          "PLUruAO4-0QPwWwKD7I2XKCVPrr5doYRsA",
+          "PLpuTkbiVtmpihNRmok83naDbZbyWtWRAx",
           "playlist"
 		]
 	       }
