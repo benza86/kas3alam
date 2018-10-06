@@ -16,11 +16,29 @@
 		]
 	       }
 	        ,
+	           {
+        "title":"club africain Curva Nord",
+        "provider":"youtube",
+        "arguments":[
+          "UCTbOLI8WjimV6MBTdG7bigA",
+          "channel"
+		]
+	       }
+	        ,
 	        {
         "title":"YouClubiste [chaîne officielle]",
         "provider":"youtube",
         "arguments":[
           "UCdNqLSt-7wG-tRlhf5ZVMRA",
+          "channel"
+		]
+	       }
+	    ,
+	        {
+        "title":"CA NEWS",
+        "provider":"youtube",
+        "arguments":[
+          "UCttBuPMbNwip5DHAriPegZw",
           "channel"
 		]
 	       }
@@ -43,26 +61,8 @@
 		]
 	       }
 	    ,
-	     {
-        "title":"اخر الأخبار",
-        "provider":"youtube",
-        "arguments":[
-          "UCiPSs-2vxzLNaoWYPahH0Yg",
-          "channel"
-		]
-	       }
-	    ,
-	    
+	   
 	 
-	       {
-        "title":"Ligue Clubiste TV",
-        "provider":"youtube",
-        "arguments":[
-          "UCR2JCBXasHJ6YQTi9ac4AWQ",
-          "channel"
-		]
-	       }
-	    ,
 	       {
         "title":"Club Africain Youtube",
         "provider":"youtube",
