@@ -438,22 +438,7 @@
     ]
 
   },
-	  {
-   "title":"Kora",
-    "drawable":"",
-    "submenu":"أخبار النادي",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://kora.com/ar/tunisia/club-africain/"
-        ]
-      }
-    ]
-
-  },
+	
  	  {
    "title":"كرة السلة",
     "drawable":"",
@@ -519,125 +504,59 @@
 
   },
 	
- {
+
+  {
     "title":"ملخصات و أهداف",
     "drawable":"",
     "submenu":"فيديوهات",
     "iap":false,
     "tabs":[
-     {
-	"title":"الاستوديو التحليلي",
-        "provider":"youtube",
-        "arguments":[
-          "UCqXVEbCxzMh-Xljo7ApVgTQ",
-          "channel"
-        ]
- 
-      },
-	         {
-	"title":"كواليس كأس العالم",
-        "provider":"youtube",
-        "arguments":[
-          "UCwnMlne83-VQMTdIgsp6luA",
-          "channel"
-        ]
- 
-      },
-	     
-      {
-        "title":"ملخصات",
-        "provider":"youtube",
-        "arguments":[
-          "UCfWnNRm78OM4fmgrkI--RvA",
-          "channel"
-        ]
-      },
-	        	  {
-        "title": " English Highlights",
-        "provider":"youtube",
-        "arguments":[
-          "UCnfTxMObW3nm-9faQzRGIig",
-          "channel"
-
-        ]
-      },
-	       {
-        "title":"كواليس المونديال",
-        "provider":"youtube",
-        "arguments":[
-          "UCe9Wb6D8SQR0gyNfgNLZaiw",
-          "channel"
-        ]
-      },
-	        {
-        "title":"كواليس المغرب",
-        "provider":"youtube",
-        "arguments":[
-          "UC3_N5eFRpGNhW9VnwQlvQWg",
-          "channel"
-        ]
-      },
-	 {
-        "title":"كواليس تونس",
-        "provider":"youtube",
-        "arguments":[
-          "PLmQHtil5-0QVP7WrmcVfrTYycQ8IxM9z5",
-          "playlist"
-
-        ]
-      },
 	          {
-        "title":"كواليس مصر",
+        "title":"الاهداف و الملخصات",
         "provider":"youtube",
         "arguments":[
-          "UCWLo4r-9_x4GCJCFShNFq0A",
+          "UCfz75r62VqNNbiLgF_CukaA",
           "channel"
-
         ]
-      },
+      },  
+	        {
+        "title":"2الاهداف و الملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UCLT0U-qIpN71Nruvxg5jKhA",
+          "channel"
+        ]
+      },  
+	
+	        {
+        "title":"جميع الدوريات",
+        "provider":"youtube",
+        "arguments":[
+          "UC7C-kigODYM1DhEO14yKXAA",
+          "channel"
+        ]
+      },  
+	
+	         {
+        "title":"دوريات عربية",
+        "provider":"youtube",
+        "arguments":[
+          "UClE5zzddLBcBwD2n7RfnWmQ",
+          "channel"
+        ]
+      },  
+	
+	            {
+        "title":"ملخصات عربي",
+        "provider":"youtube",
+        "arguments":[
+          "UCfZ0cC-UlXMVWQ6rCvP3dLw",
+          "channel"
+        ]
+      },  
 	    
- {
-        "title":"مقتطفات",
-        "provider":"youtube",
-        "arguments":[
-          "UCfWnNRm78OM4fmgrkI--RvA",
-          "channel"
-        ]
-      },
-   {
-        "title":" ملخصات انجليزي",
-        "provider":"youtube",
-        "arguments":[
-          "UCnfTxMObW3nm-9faQzRGIig",
-          "channel"
-
-        ]
-      },
-	  
-	     
-	     
-      {
-	"title":"Highlights",
-        "provider":"youtube",
-        "arguments":[
-          "UCShPR_51eeEfreqNnRBLJ2Q",
-          "channel"
-        ]
- 
-      },
-	      {
-        "title":"English",
-        "provider":"youtube",
-        "arguments":[
-          "UCQ8teRDg67faTu56c2l_IYA",
-          "channel"
-
-        ]
-      },
-	 
-	  
 	  	  	   {
-        "title":"LIGA",
+        "title":"الدوري الاسباني",
         "provider":"youtube",
         "arguments":[
           "UC1rhtAWLDdgcEAo1JKkBKkg",
@@ -646,17 +565,80 @@
         ]
       },
 	  	   {
-        "title":"Ligue1",
+        "title":"الدوري الفرنسي",
         "provider":"youtube",
         "arguments":[
           "UC58LMAlfwtGRNR6Xpd4DlSA",
           "channel"
 
         ]
+      },
+     
+      {
+        "title":"الدوري السعودي",
+        "provider":"youtube",
+        "arguments":[
+          "UCuv25YFiKY3NUnuG7q7F3ng",
+          "channel"
+        ]
       }
 	   ,
-      {
-              "title":"Arabic",
+	       {
+        "title":"مباريات ",
+        "provider":"youtube",
+        "arguments":[
+          "UCgPQ-ItOBKAGQSshL0CFA5w",
+          "channel"
+        ]
+      },  
+	
+	     {
+        "title":"مقتطفات",
+        "provider":"youtube",
+        "arguments":[
+          "UCfWnNRm78OM4fmgrkI--RvA",
+          "channel"
+        ]
+      },
+	
+	    	     {
+        "title":"بي اين الاخبارية",
+        "provider":"youtube",
+        "arguments":[
+          "UCqXVEbCxzMh-Xljo7ApVgTQ",
+          "channel"
+        ]
+      },
+	
+	 
+	          {
+        "title":"أخبار الرياضة",
+        "provider":"youtube",
+        "arguments":[
+          "UC51TwW6evn4oWD8rPBZVynQ",
+          "channel"
+
+        ]
+      },
+	    	          {
+        "title": "On Sport",
+        "provider":"youtube",
+        "arguments":[
+          "UCWLo4r-9_x4GCJCFShNFq0A",
+          "channel"
+
+        ]
+      },
+	    
+
+ 
+	  
+	     
+	
+
+	
+	     {
+              "title":"تعليق عربي",
         "provider":"youtube",
         "arguments":[
           "UCgPQ-ItOBKAGQSshL0CFA5w",
@@ -664,40 +646,69 @@
 
         ]
       }
-	   
-    ]
-  },
-	
-	
-  {
-    "title":"Flash News",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"FOX SPORTS",
-        "provider":"rss",
-        "arguments":[
-          "https://api.foxsports.com/v1/rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU&tag=soccer"
+	    ,
+	  
+	  	  	
 
+	    {
+        "title":"ملخصات",
+        "provider":"youtube",
+        "arguments":[
+          "UC1rhtAWLDdgcEAo1JKkBKkg",
+          "channel"
 
         ]
       },
-      {
-        "title":"Sky Sports",
-        "provider":"rss",
+	      
+     
+	     
+	    
+   {
+        "title":"Le Sport avec CANAL",
+        "provider":"youtube",
         "arguments":[
-          "http://www.skysports.com/rss/12040"  ]
+          "UC8ggH3zU61XO0nMskSQwZdA",
+          "channel"
+
+        ]
       },
-      {
-        "title":"live",
-        "provider":"rss",
+	
+	    
+	    {
+        "title":"Foot Mercato",
+        "provider":"youtube",
         "arguments":[
-          "https://www.scorespro.com/rss2/live-soccer.xml"  ]
+          "UCrzDtXyuSBch2u_31JJj-Dw",
+          "channel"
+
+        ]
       }
+	    ,
+	    {
+        "title":"AFTER FOOT",
+        "provider":"youtube",
+        "arguments":[
+          "UCUdwSuEopnWNpibR9-dgciw",
+          "channel"
+
+        ]
+      },
+
+	
+      {
+              "title":"تعليق عربي",
+        "provider":"youtube",
+        "arguments":[
+          "UCgPQ-ItOBKAGQSshL0CFA5w",
+          "channel"
+
+        ]
+      }
+	  
     ]
   },
+	
+	
 
 
   
