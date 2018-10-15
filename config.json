@@ -241,36 +241,43 @@
 	    }
 	
 	,
-     {
-   "title":"الوطنية 1",
+	  {
+    "title":"الوطنية 1",
     "drawable":"",
     "submenu":"بث المباريات",
     "iap":false,
     "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
+	  
+	           {
+        "title":"Watania 1",
+        "provider":"youtube",
         "arguments":[
-          "http://www.watania1.tn/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1/%D9%85%D8%AD%D8%AA%D9%88%D9%89"
-        ]
-  }
-	           ]
-  },
-	     {
-   "title":"الوطنية 2",
+          "UCdvWVsmQBROkgcGzVep73oA",
+          "channel"
+		]
+	       }
+	    ]
+	  }
+	,
+	  {
+    "title":"الوطنية 2",
     "drawable":"",
     "submenu":"بث المباريات",
     "iap":false,
     "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
+	  
+	           {
+        "title":"Watania 2",
+        "provider":"youtube",
         "arguments":[
-          "http://www.watania2.tn/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D9%80%D8%A7%D8%B4%D8%B1/%D9%85%D8%AD%D8%AA%D9%88%D9%89"
-        ]
-  }
-	           ]
-  },
+          "UCJW9gatYczI191TunQxMGbA",
+          "channel"
+		]
+	       }
+	    ]
+	  }
+	,
+
 	    {
    "title":"أخبار الوطنية",
     "drawable":"",
