@@ -101,7 +101,16 @@
           "UC3OXMztcdu-zHHiPrXxXqIw",
           "channel"
 		]
-}
+},
+	      {
+        "title":"Watania 1",
+        "provider":"youtube",
+        "arguments":[
+          "UCdvWVsmQBROkgcGzVep73oA",
+          "channel"
+		]
+	       }
+	        
 	    
         ]
       }
